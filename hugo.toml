@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://e-eight.github.io/intro-to-ml-on-hpc/"
 title = "Introduction to Machine Learning on HPC"
 
 theme = ["reveal-hugo"]
