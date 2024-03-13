@@ -90,7 +90,7 @@ Realistic datasets, like R's `airquality` dataset, often come with missing value
 -   Fill the missing entries
 -   Use models / algorithms that can account for missing entries (semi-supervised learning)
 
-Download R script: [data_prelim.R](/scripts/r/data_prelim.R)
+Download R script: [data_prelim.R](data_prelim.R)
 
 ---
 
@@ -110,7 +110,7 @@ Cluster penguins into groups based on their bill features
 - You have to specify the number of clusters
 - Penguin data comes from the `palmerpenguins` dataset
 
-Download R script: [penguins_kmeans.R](/scripts/r/penguins_kmeans.R)
+Download R script: [penguins_kmeans.R](penguins_kmeans.R)
 
 ---
 
@@ -120,4 +120,4 @@ Classify mushroom as edible or poisonous based on their physical features
 
 Full dataset: [Mushroom](https://archive.ics.uci.edu/dataset/73/mushroom)
 
-Download R script with Naive Bayes classifier: [mushroom_naivebayes.R](/scripts/r/mushroom_naivebayes.R)
+Download R script with Naive Bayes classifier: [mushroom_naivebayes.R](mushroom_naivebayes.R)

@@ -110,7 +110,7 @@ Full dataset: [Danish Fungi 2020](https://sites.google.com/view/danish-fungi-dat
   tar xvf DF20M-4.tar.gz
   ```
   
-Download the Jupyter notebook: [fungi-classification.ipynb](/notebooks/fungi-classification.ipynb)
+Download the Jupyter notebook: [fungi-classification.ipynb](fungi-classification.ipynb)
 
 ---
 
@@ -130,4 +130,4 @@ Cluster penguins into groups based on their bill features
 - You have to provide the bandwidth of the kernel
 - Penguin data comes from the `palmerpenguins` dataset
 
-Download the Jupyter notebook: [penguins-classification.ipynb](/notebooks/penguins-clustering.ipynb)
+Download the Jupyter notebook: [penguins-classification.ipynb](penguins-clustering.ipynb)
