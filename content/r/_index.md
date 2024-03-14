@@ -121,3 +121,10 @@ Classify mushroom as edible or poisonous based on their physical features
 Full dataset: [Mushroom](https://archive.ics.uci.edu/dataset/73/mushroom)
 
 Download R script with Naive Bayes classifier: [mushroom_naivebayes.R](mushroom_naivebayes.R)
+ 
+---
+
+# Backlinks
+
+- [Return to main presentation]({{% relref "/" %}})
+- [Go to the Python version]({{% relref "/python" %}})

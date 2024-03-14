@@ -131,3 +131,10 @@ Cluster penguins into groups based on their bill features
 - Penguin data comes from the `palmerpenguins` dataset
 
 Download the Jupyter notebook: [penguins-classification.ipynb](penguins-clustering.ipynb)
+
+---
+
+# Backlinks
+
+- [Return to main presentation]({{% relref "/" %}})
+- [Go to the R version]({{% relref "/r" %}})
