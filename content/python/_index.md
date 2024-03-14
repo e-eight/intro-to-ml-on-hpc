@@ -120,7 +120,7 @@ Cluster penguins into groups based on their bill features
 
 <img src="/images/palmerpenguins.png" width="600">
 
-<cite>Artwork by [Allison Horst](https://www.allisonhorst.com/)</cite>
+<cite>Artwork by [@allison_horst](https://twitter.com/allison_horst)</cite>
  
 ---
 
